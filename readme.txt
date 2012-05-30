@@ -13,7 +13,7 @@ Prints backtrace of call to wp_redirect().
 
 Prints backtrace of call to wp_redirect().
 
-Use this plugin why your website redirects unexpectedly somewhere and you do
+Use this plugin to track why your website redirects unexpectedly somewhere and you do
 not know what plugin or Wordpress function calls wp_redirect().
 
 This plugin prints backtrace using HTTP headers. To view headers you need use your
